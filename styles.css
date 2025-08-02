@@ -53,3 +53,23 @@ button {
   align-items: center;
   justify-content: center;
 }
+
+/* Room 1 CSS */
+.room-background {
+  position: relative;
+  width: 100%;
+  max-width: 900px;
+  margin: auto;
+}
+
+.full-bg {
+  width: 100%;
+  display: block;
+}
+
+.item {
+  position: absolute;
+  width: 50px;
+  cursor: pointer;
+}
+
